@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mobFinal</string>
+    <string name="textview">TextView</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">longitude:</string>
+    <string name="Latitude">Latitude:</string>
+    <string name="Longitude">Longitude:</string>
+    <string name="open_camera">open camera</string>
+    <string name="scan">scan</string>
+</resources>

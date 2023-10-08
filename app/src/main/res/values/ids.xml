@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtResultsBody" type="id" />
+    <item name="txtResultsHeader" type="id" />
+    <item name="imageView" type="id" />
+</resources>
