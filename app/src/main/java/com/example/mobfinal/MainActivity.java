@@ -70,9 +70,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     String resultData = data.getStringExtra("message_key");
 
 
-                    int n = resultData.indexOf("=");
+                    int n = resultData.indexOf(":");
                     int end = resultData.indexOf(",");
-                    String Latitude = resultData.substring(n+1,end);
+                    String Latitude = resultData.substring(n+2,end);
                     String Longitude = resultData.substring(end+1);
 
 
